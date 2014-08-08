@@ -1,0 +1,28 @@
+{
+    "context": "client",
+    "identifier": "com.noahhuppert.pa.paTest",
+    "display_name": "PA Test",
+    "description": "A unit test framework for PA",
+    "author": "someonewhoisnobody",
+    "version": "0.0.1",
+    "build": "68767",
+    "date": "2014/8/7",
+    "signature": "not yet implemented",
+    "forum": "TODO",
+    "category": [
+        "in-game",
+        "ui",
+        "framework",
+        "unit test",
+        "test"
+    ],
+    "id": "com.noahhuppert.pa.paTest",
+    "priority": 100,
+    "scenes": {
+        "global_mod_list ": [
+            "coui://ui/mods/com.noahhuppert.pa.paTest/src/helpers/PATestInject.js"
+        ]
+    },
+    "requires": [],
+    "enabled": true
+}

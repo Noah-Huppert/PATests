@@ -1,0 +1,16 @@
+{
+  "name": "PATests",
+  "version": "0.0.1",
+  "description": "A unit test framework for PA",
+  "main": "np.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-compress": "^0.10.0",
+    "grunt-contrib-copy": "^0.5.0"
+  },
+  "author": "Noah Huppert (someonewhoisnobody)",
+  "license": "MIT"
+}

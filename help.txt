@@ -1,0 +1,41 @@
+
+---------- Build Script Usage ----------
+Usage: grunt build [.flags]
+Flag Usage: --flagName=flagValue OR --flagName
+
+Flags:
+  versionMod (Optional)
+    Description: Specifies how to increment the version number. Typacly the build number always increments by one
+    Version Number Description: {major}.{minor}.{build}
+
+    plusMajor - Increments {major} by one
+    minusMajor - Decrements {major} by one
+    plusMinor - Increments {minor} by one
+    minusMinor - Decrements {minor} by one
+    custom - Allows user to specify custom version number with additional flags
+      versionMajor (Optional) - Sets {major}
+      versionMinor (Optional) - Sets {minor}
+      versionBuild (Optional) - Sets {build}
+
+
+  resetBuild (Optional)
+    Description: Sets {build} back to 1. This is usefull when you want to increment {major} or {minor} and reset {build}
+
+    true - Resets {build} to 1
+    false - Do not reset {build} back to 1
+
+  modBuild (Optional)
+    Description: Sets the PA build number in the modinfo.json
+
+    Accepts any valid charecters
+
+
+  installMod (Optional)
+    Description: Specifies if the build script should copy the new mod to the PA Mods folder
+
+    true - Will install mod in PA Mods folder
+    false - Will not install mod in PA Mods folder
+
+
+  help (Optional)
+    Description: Displays this help text
