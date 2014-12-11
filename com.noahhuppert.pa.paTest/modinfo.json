@@ -4,9 +4,9 @@
     "display_name": "PA Test",
     "description": "A unit test framework for PA",
     "author": "someonewhoisnobody",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "build": "68767",
-    "date": "2014/8/7",
+    "date": "2014/8/12",
     "signature": "not yet implemented",
     "forum": "TODO",
     "category": [

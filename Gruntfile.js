@@ -199,17 +199,29 @@ module.exports = function(grunt){
   };
 
 
+  /* Setup Shell */
+  var shellConfigObj = {
+    launchPA: {
+      command: "\"C:/Games/Uber Entertainment/Planetary Annihilation Launcher/Planetary Annihilation/stable/PA.exe\""
+    },
+    launchPALauncher: {
+      command: "start \"cmd.exe\" \"C:/Games/Uber Entertainment/Planetary Annihilation Launcher/UberLauncher.exe\""
+    }
+  };
+
+
   /* Apply settings for tasks */
   grunt.initConfig({
     compress: zipConfigObj,
-    copy: copyConfigObj
+    copy: copyConfigObj,
+    shell: shellConfigObj
   });
 
 
   /* Load installed tasks */
   grunt.loadNpmTasks('grunt-contrib-compress');
   grunt.loadNpmTasks('grunt-contrib-copy');
-
+  grunt.loadNpmTasks('grunt-shell');
 
   /* Make Custom tasks */
   //PATest Build
@@ -235,6 +247,16 @@ module.exports = function(grunt){
   if(grunt.option("installMod")){
     gruntTasks.push("showCopyMessage");
     gruntTasks.push('copy');
+  }
+
+  //Add launch PA task if specified
+  if(grunt.option("launchPA")){
+    gruntTasks.push("shell:launchPA");
+  }
+
+  //Add launch PA launcher task if specified
+  if(grunt.option("launchPALauncher")){
+    gruntTasks.push("shell:launchPALauncher");
   }
 
   //Show help if specified to

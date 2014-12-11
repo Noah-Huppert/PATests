@@ -1,0 +1,57 @@
+3808 17:43:40.615355 W | PID: 3644 | 6808 17:43:40.132294 [3644:6808:WARNING:resource_bundle.cc(252)] locale_file_path.empty()
+3808 17:43:40.832334 W | PID: 3644 | 6788 17:43:40.822333 [6412:3964:WARNING:resource_bundle.cc(252)] locale_file_path.empty()
+3808 17:43:40.832334 W | PID: 3644 | 6788 17:43:40.822333 [1976:4392:WARNING:resource_bundle.cc(252)] locale_file_path.empty()
+3808 17:43:40.832334 W | PID: 3644 | 6788 17:43:40.822333 [5024:6856:WARNING:resource_bundle.cc(252)] locale_file_path.empty()
+3808 17:43:40.832334 W | PID: 3644 | 6788 17:43:40.822333 [6588:6376:WARNING:resource_bundle.cc(252)] locale_file_path.empty()
+3808 17:43:41.332363 W | PID: 3644 | 6808 17:43:41.331363 [3644:6808:WARNING:(0)] locale_file_path.empty()
+3808 17:43:42.282420 W | PID: 3644 | 6808 17:43:42.266416 Requesting resource read for coui://ui/main/_i18n/locales/en-us/special_icon_atlas.json with internal id 43 reported FAIL
+3808 17:43:42.282420 W | PID: 3644 | 6808 17:43:42.266416 Requesting resource read for coui://ui/main/_i18n/locales/en-us/icon_atlas.json with internal id 44 reported FAIL
+3808 17:43:42.283419 W | PID: 3644 | 6808 17:43:42.282420 Requesting resource read for coui://ui/main/_i18n/locales/en-us/main.json with internal id 45 reported FAIL
+3808 17:43:42.283419 W | PID: 3644 | 6808 17:43:42.283419 Requesting resource read for coui://ui/main/_i18n/locales/en/special_icon_atlas.json with internal id 46 reported FAIL
+3808 17:43:42.299420 W | PID: 3644 | 6808 17:43:42.283419 Requesting resource read for coui://ui/main/_i18n/locales/en/icon_atlas.json with internal id 47 reported FAIL
+3808 17:43:42.299420 W | PID: 3644 | 6808 17:43:42.299420 Requesting resource read for coui://ui/main/_i18n/locales/dev/special_icon_atlas.json with internal id 48 reported FAIL
+3808 17:43:42.315449 W | PID: 3644 | 6808 17:43:42.299420 Requesting resource read for coui://ui/main/_i18n/locales/dev/icon_atlas.json with internal id 49 reported FAIL
+3808 17:43:42.317420 W | PID: 3644 | 6808 17:43:42.316419 Requesting resource read for coui://ui/main/_i18n/locales/en/main.json with internal id 50 reported FAIL
+3808 17:43:42.332483 W | PID: 3644 | 6788 17:43:42.317420 Could not recognize the mime type of coui://ui/main/_i18n/locales/en-us/shared.json
+3808 17:43:42.332483 W | PID: 3644 | 6788 17:43:42.317420 Could not recognize the mime type of coui://ui/main/_i18n/locales/en-us/shared.json
+3808 17:43:42.333420 W | PID: 3644 | 6808 17:43:42.332483 Requesting resource read for coui://ui/main/_i18n/locales/dev/main.json with internal id 53 reported FAIL
+3808 17:43:42.333420 W | PID: 3644 | 6788 17:43:42.333420 Could not recognize the mime type of coui://ui/main/_i18n/locales/en/shared.json
+3808 17:43:42.349430 W | PID: 3644 | 6788 17:43:42.333420 Could not recognize the mime type of coui://ui/main/_i18n/locales/en/shared.json
+3808 17:43:42.350422 W | PID: 3644 | 6788 17:43:42.349430 Could not recognize the mime type of coui://ui/main/_i18n/locales/dev/shared.json
+3808 17:43:42.350422 W | PID: 3644 | 6788 17:43:42.350422 Could not recognize the mime type of coui://ui/main/_i18n/locales/dev/shared.json
+3808 17:43:42.365423 W | PID: 3644 | 6788 17:43:42.350422 Could not recognize the mime type of coui://ui/main/_i18n/locales/en-us/shared.json
+3808 17:43:42.399424 W | PID: 3644 | 6788 17:43:42.382424 Could not recognize the mime type of coui://ui/main/_i18n/locales/en/shared.json
+3808 17:43:42.432428 W | PID: 3644 | 6788 17:43:42.416426 Could not recognize the mime type of coui://ui/main/_i18n/locales/dev/shared.json
+3808 17:43:42.450428 W | PID: 3644 | 6808 17:43:42.436426 Requesting resource read for coui://ui/main/atlas/special_icon_atlas/img/icons/icons_command_attack_move.png with internal id 69 reported FAIL
+3808 17:43:42.450428 W | PID: 3644 | 6808 17:43:42.436426 Requesting resource read for coui://ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_celestial_object.png with internal id 70 reported FAIL
+3808 17:43:42.454428 W | PID: 3644 | 6788 17:43:42.449427 Could not recognize the mime type of coui://ui/main/shared/css/font/Armata-Regular-webfont.ttf
+3808 17:43:42.464429 W | PID: 3644 | 6808 17:43:42.460428 Requesting resource read for coui://ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_fighter_adv.png with internal id 108 reported FAIL
+3808 17:43:42.465428 W | PID: 3644 | 6808 17:43:42.462428 Requesting resource read for coui://ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_unit_air_generic_adv.png with internal id 113 reported FAIL
+3808 17:43:42.466428 W | PID: 3644 | 6808 17:43:42.462428 Requesting resource read for coui://ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_unit_air_generic.png with internal id 114 reported FAIL
+3808 17:43:42.467428 W | PID: 3644 | 6808 17:43:42.464429 Requesting resource read for coui://ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_bot_artillery_adv.png with internal id 118 reported FAIL
+3808 17:43:42.467428 W | PID: 3644 | 6808 17:43:42.464429 Requesting resource read for coui://ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_bot_artillery.png with internal id 119 reported FAIL
+3808 17:43:42.469428 W | PID: 3644 | 6808 17:43:42.465428 Requesting resource read for coui://ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_bot_aa.png with internal id 122 reported FAIL
+3808 17:43:42.477430 W | PID: 3644 | 6808 17:43:42.469428 Requesting resource read for coui://ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_attack_sub.png with internal id 130 reported FAIL
+3808 17:43:42.478429 W | PID: 3644 | 6808 17:43:42.469428 Requesting resource read for coui://ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_fabrication_sub.png with internal id 131 reported FAIL
+3808 17:43:42.478429 W | PID: 3644 | 6808 17:43:42.469428 Requesting resource read for coui://ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_nuclear_sub.png with internal id 132 reported FAIL
+3808 17:43:42.478429 W | PID: 3644 | 6808 17:43:42.469428 Requesting resource read for coui://ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_sea_mine.png with internal id 133 reported FAIL
+3808 17:43:42.482429 W | PID: 3644 | 6808 17:43:42.478429 Requesting resource read for coui://ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_sonar.png with internal id 141 reported FAIL
+3808 17:43:42.484429 W | PID: 3644 | 6808 17:43:42.478429 Requesting resource read for coui://ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_sonar_adv.png with internal id 142 reported FAIL
+3808 17:43:42.486429 W | PID: 3644 | 6788 17:43:42.481431 Could not recognize the mime type of coui://ui/main/shared/css/font/Armata-Regular-webfont.ttf
+3808 17:43:42.532432 W | PID: 3644 | 6788 17:43:42.516431 [3300:2028:WARNING:resource_bundle.cc(252)] locale_file_path.empty()
+3808 17:43:42.532432 W | PID: 3644 | 6788 17:43:42.519431 [2644:4000:WARNING:resource_bundle.cc(252)] locale_file_path.empty()
+3808 17:43:42.609436 W | PID: 3644 | 6788 17:43:42.575435 Could not recognize the mime type of coui://ui/main/shared/css/font/Armata-Regular-webfont.ttf
+3808 17:43:42.932456 W | PID: 3644 | 6788 17:43:42.918456 Could not recognize the mime type of coui://ui/main/_i18n/locales/en-us/start.json
+3808 17:43:42.952456 W | PID: 3644 | 6788 17:43:42.951459 Could not recognize the mime type of coui://ui/main/_i18n/locales/en/start.json
+3808 17:43:42.965457 W | PID: 3644 | 6788 17:43:42.952456 Could not recognize the mime type of coui://ui/main/_i18n/locales/en-us/uberbar.json
+3808 17:43:42.984459 W | PID: 3644 | 6788 17:43:42.984459 Could not recognize the mime type of coui://ui/main/_i18n/locales/dev/start.json
+3808 17:43:42.999459 W | PID: 3644 | 6788 17:43:42.985458 Could not recognize the mime type of coui://ui/main/_i18n/locales/en/uberbar.json
+3808 17:43:43.017472 W | PID: 3644 | 6788 17:43:43.016460 Could not recognize the mime type of coui://ui/main/_i18n/locales/en-us/shared.json
+3808 17:43:43.032517 W | PID: 3644 | 6788 17:43:43.018462 Could not recognize the mime type of coui://ui/main/_i18n/locales/dev/uberbar.json
+3808 17:43:43.049462 W | PID: 3644 | 6788 17:43:43.032517 Could not recognize the mime type of coui://ui/main/_i18n/locales/en/shared.json
+3808 17:43:43.065462 W | PID: 3644 | 6788 17:43:43.049462 Could not recognize the mime type of coui://ui/main/_i18n/locales/en-us/shared.json
+3808 17:43:43.082516 W | PID: 3644 | 6788 17:43:43.066462 Could not recognize the mime type of coui://ui/main/_i18n/locales/dev/shared.json
+3808 17:43:43.099465 W | PID: 3644 | 6788 17:43:43.082516 Could not recognize the mime type of coui://ui/main/_i18n/locales/en/shared.json
+3808 17:43:43.132467 W | PID: 3644 | 6788 17:43:43.116466 Could not recognize the mime type of coui://ui/main/_i18n/locales/dev/shared.json
+3808 17:43:43.299476 W | PID: 3644 | 6808 17:43:43.282476 Requesting resource read for coui://ui/main/shared/css/images/ui-icons_ffffff_256x240.png with internal id 233 reported FAIL
+3808 17:43:43.428485 W | PID: 3644 | 6788 17:43:43.425484 Could not recognize the mime type of coui://ui/main/shared/css/font/Armata-Regular-webfont.ttf

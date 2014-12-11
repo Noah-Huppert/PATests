@@ -6,8 +6,8 @@ PATest.helpers.inject = {};
 PATest.helpers.inject.files = {};
 
 /* Setup file locations */
-PATest.helpers.inject.files.js = [ "src/helpers/PATestNamespace.js", "src/core/PATestMain.js" ];
-PATest.helpers.inject.files.css = [ "src/core/css/PATest.css" ];
+PATest.helpers.inject.files.js = [ "src/scripts/helpers/PATestNamespace.js", "src/scripts/core/PATestMain.js" ];
+PATest.helpers.inject.files.css = [ "src/styles/css/PATest.css" ];
 PATest.helpers.inject.files.couiModPath = "coui://ui/mods/com.noahhuppert.pa.paTest/";
 
 //Since this is a global function, it is likely that files might be double injected. To prevent this we will keep track of all the already injected files

@@ -37,5 +37,19 @@ Flags:
     false - Will not install mod in PA Mods folder
 
 
+  launchPA (Optional)
+    Description: Specifies if the build script should launch PA
+
+    true - Will launch PA
+    false - Won't launch PA
+
+
+  launchPALauncher (Optional)
+    Description: Specifies if the build script should launch the PA Launcher
+
+    true - Will launch the PA Launcher
+    false - Won't launch the PA Launcher
+
+
   help (Optional)
     Description: Displays this help text
